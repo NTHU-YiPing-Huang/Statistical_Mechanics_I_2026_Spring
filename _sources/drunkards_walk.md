@@ -1,3 +1,4 @@
+(Drunkard_walk)=
 # Drunkard's walk
 
 We can generalize the idea a little bit into the two-dimensional case. Suppose we have a drunk guy leaving a bar. The guy is drunk to the suitable level that he can keep the size of each step but lose the ability to be oriented. So the direction of each step is random. We can use a randomly oriented vector of length $L$, $\textbf{l}_j=L(\cos\theta_j,\sin\theta_j)$, to denote the $j$-th step of the drunk guy. By definition, we also have $\langle \textbf{l}_m\cdot\textbf{l}_n\rangle=L^2\langle\cos(\theta_m-\theta_n)\rangle=0$ since $\theta_m$ and $\theta_n$ are random angles.

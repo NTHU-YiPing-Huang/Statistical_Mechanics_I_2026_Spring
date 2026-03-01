@@ -1,3 +1,4 @@
+(diff_eq)=
 # The diffusion equation
 
 ## The microscopic model
