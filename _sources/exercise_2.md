@@ -52,8 +52,8 @@ This is the level repulsion physics for a general (no symmetry constraints) $2\t
 	$$
 		P(\omega)=\frac{1}{(2\pi)^{3/2}\sigma^3}\int d\varepsilon_1 \int d\varepsilon_2\int dV\delta\left( \sqrt{(\varepsilon_1-\varepsilon_2)^2+2V^2}-\omega \right) \exp\left[ -\frac{\varepsilon_1^2+\varepsilon_2^2+V^2}{2\sigma^2} \right]\text{.}
 	$$
-What is $P(\omega)$?
-(*Hint: Evaluate this integral by change of variable $\varepsilon_2=\varepsilon_1+\sqrt{2}\xi$ and integrate $\varepsilon_1$. After that, $\varepsilon_2$ and $V$ will look symmetric, one can use the polar coordinates to simplify the integral further and get the result.*)
+What is $P(\omega)$
+(*Hint: Evaluate this integral by change of variable $\varepsilon_2=\varepsilon_1+\sqrt{2}\xi$ and integrate $\varepsilon_1$. After that, $\varepsilon_2$ and $V$ will look symmetric, one can use the polar coordinates to simplify the integral further and get the result.*)?
 2. Now let's consider $V$ to be complex in general. That means both the real part and the imaginary part of $V$ are random. Consider the real part and imaginary part are also random numbers extracted from Gaussian distribution functions with width $\sigma$ and repeat the calculation in the previous question. Find $P(\omega)$ in this case.
 
 The random matrix theory is initially invented for the spectra of nuclei of heavy atoms initially. However, it becomes one of the key concept to explore the physics of thermalization which is an important problem in the past decade or so in quantum statistical mechanics.

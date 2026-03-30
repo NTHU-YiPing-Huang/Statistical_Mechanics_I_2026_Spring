@@ -1,6 +1,6 @@
 # Guide to Exercise 2
 
-In [](Exercise_2), the {ref}`Problem 1<Prob_2-1>`
-the {ref}`Problem 2<Prob_2-2>`
-the {ref}`Problem 3<Prob_2-3>`
-the {ref}`Problem 4<Prob_2-4>`
+In [](Exercise_2), the {ref}`Problem 1<Prob_2-1>` is a simple generalization of the Green's function in 1D to general dimension.
+The {ref}`Problem 2<Prob_2-2>` is a analytic expression of $2\times2$ real/complex random matrix. Try to identify the level repulsion that we have learned in quantum mechanics. The higher dimension, beyond $2\times2$ matrix, random matrices does not have the nice analytic expression, but the behavior is qualitatively similar. Random matrix theory not only plays an important role in statistical mechanics, it also is related to the classification of topological phases which at the non-interacting limit is to characterize matrices according to symmetries.
+the {ref}`Problem 3<Prob_2-3>` is an exercise for us to understand the strange properties of phase space when $N$ is large.
+the {ref}`Problem 4<Prob_2-4>`is a hand waving derivation of Van der Waals' equation. The key notion here is the second question: A specific combination of macroscopic observables becomes independent of microscopic detail. Another point is the argument of the free energy behavior as a function of interaction is connected with the "mean field" picture. That is, Van der Waal's equation can be interpret as a mean field theory for interacting ideal gas model.
